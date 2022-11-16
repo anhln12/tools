@@ -2,8 +2,8 @@
 
 1. SimilarWeb là gì?
 2. Ưu nhược điểm khi sử dụng Similarweb
-    Ưu điểm
-    Nhược điểm
+    2.1 Ưu điểm
+    2.2 Nhược điểm
 3. Cách kiểm tra một website với công cụ similarweb
 4. Những chức năng nổi bật của Similarweb là gì?
 5. Cách sử dụng SimilarWeb sao cho đúng và tối ưu
